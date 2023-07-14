@@ -15,7 +15,7 @@ script = ExtResource( 5 )
 
 [node name="MenuLayer" parent="." instance=ExtResource( 7 )]
 
-[node name="Background" type="Sprite" parent="."]
+[node name="FONDO" type="Sprite" parent="."]
 texture = ExtResource( 1 )
 centered = false
 
